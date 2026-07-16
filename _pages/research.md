@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Valeria's Research"
 permalink: /research/
 author_profile: true
 ---
@@ -27,6 +27,26 @@ author_profile: true
 
 </div>
 
+<div style="display:flex; gap:20px; align-items:center;">
+
+  <div style="flex:0 0 300px;">
+    <img src="/images/v_kontore_moskupbank1903.jpg" width="300">
+  </div>
+
+  <div>
+    
+    <h2>Apprenticeships and Formal Business Schooling in Late Imperial Russia (1880-1917): A Gendered Perspective </h2>
+
+    <p><em><a href="https://www.ebhsoc.org/journal/index.php/ebhs/article/view/540" target="_blank">Essays in Economic and Business History, 2024, Vol. 42 (1) </em></p>
+
+    <p>
+      Commercial education emerged when women’s rights were limited and single-gender schools dominated. Inevitably this system created differences in educational attainment and contributed to unequal gender roles in business organizations. This article examines an alternative trajectory in the rise of business education by focusing on a developing country, where women had economic rights—prerevolutionary Russia. It finds that in the traditional merchant apprenticeship system women were typically family members, so ownership was more important for their authority than expertise. In commercial schools, men and women received similar training, but different assumptions about female education and professional life made it much harder for women to claim authority based on their qualifications.
+    </p>
+
+  </div>
+
+</div>
+
 # 📝 Working papers
 
-# Work in progress
+# 🛠️ Work in progress
