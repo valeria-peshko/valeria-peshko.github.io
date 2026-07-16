@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Valeria's Home Page"
+title: "Meet Valeria"
 author_profile: true
 redirect_from: 
   - /about/
