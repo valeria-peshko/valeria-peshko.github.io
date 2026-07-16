@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-# About me
+## About me
 
 I am a final-year doctoral researcher in Economic History at the University of Helsinki and will defend my dissertation in October 2026.
 
