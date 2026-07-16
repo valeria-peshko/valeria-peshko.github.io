@@ -64,6 +64,8 @@ author_profile: true
       This paper examines the impact of patriarchal structures on economic inequality through the lens of property ownership in late imperial Russia. Using novel data on individual property income assessments for Moscow in 1875, 1890, and 1900, it documents trends in gendered asset ownership and income disparities. It finds that women represented over 40% of proprietors, yet earned 28–35% less property income than men, with the gap most pronounced at the top decile. Evidence suggests this male premium stemmed from men’s greater capacity to exploit housing development opportunities. The study introduces the concept of a “patriarchal inequality regime,” highlighting how economic rights without political power sustained gendered wealth gaps.
     </p>
 
+    <p>Presented at Baltic Connections Conference, Uppsala History of Inequaliy and Labor Lab, LSE Graduate Seminar</p>
+
   </div>
 
 </div>
