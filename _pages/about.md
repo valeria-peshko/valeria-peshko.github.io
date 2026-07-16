@@ -8,12 +8,14 @@ redirect_from:
 ---
 
 
-Hello there!
+#About me
 
-I am a final year doctoral student at the University of Helsinki scheduled to defend in October 2026.
+I am a final-year doctoral researcher in Economic History at the University of Helsinki and will defend my dissertation in October 2026.
 
-My research explores issues related to gender and economic inequality, socio-political conflict, firm dynamics, and business history in context of Russain Emprire/Soviet Union. I am particulary interested in working with micro-level and geo-coded data. Originally, an historian of art I am proficient in both qualitative and quantitative methods and passionate about drawing parallels between economic phenomena and works of art.
+My research focuses on gender and economic inequality, socio-political conflict, firm dynamics, and business history in the context of the Russian Empire and the Soviet Union. I am particularly interested in the use of micro-level and geocoded data to study long-run economic and social change. Trained originally as an art historian, I combine quantitative and qualitative methods and enjoy exploring connections between economic phenomena and visual culture.
 
-My work is featured in *European Review of Economic History*, *Scandinavian Economic History Review*, and *Essays in Economic and Business History*.
+My work has been published in the European Review of Economic History, Scandinavian Economic History Review, and Essays in Economic and Business History.
 
-I am currently on the job market, please, feel free to contact me about interesting opportunities!
+Beyond research, I have co-organized conference panels on female entrepreneurship in the long nineteenth century and a workshop on the use of artificial intelligence in historical data digitization.
+
+I am currently on the academic job market and welcome inquiries regarding research collaborations, postdoctoral opportunities, and other professional engagements.
