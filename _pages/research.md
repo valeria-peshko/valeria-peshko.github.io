@@ -7,7 +7,7 @@ author_profile: true
 
 # Peer-reviewed articles
 
-![Map of Partnerships in 1914](/images/parts_1914_map.png){: .align-left width="300px@}
+![Map of Partnerships in 1914](/images/parts_1914_map.png){: .align-left width="300px"}
 ## You Never Give Me Your Money: Barriers to Female Entrepreneurship in the Russian Empire, 1892-1914.
 
 *European Review of Economic History, forthcoming*
