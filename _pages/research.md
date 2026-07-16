@@ -69,8 +69,24 @@ author_profile: true
 </div>
 
 # 🛠️ Work in progress
+<div style="display:flex; gap:20px; align-items:center;">
 
-## From Capital to Kapital? Urban Wealth Inequality and Unrest in the Late Russian Empire.
-(with Tom Raster)
+  <div style="flex:0 0 300px;">
+    <img src="/images/Bolshevik_Kustodiev.jpg" width="300">
+  </div>
 
-How does inequality shape social unrest? Which type of inequality (overall, ethnic, religious) matter most? We collect novel archival real-estate wealth data for all nearly 500 cities across the Russian Empire in 1912, on the eve of the 1917 Revolutions. We document very high levels of urban real-estate wealth inequality, with the top 10, 5 and 1 percent shares at, on average, 96, 87, and 57 percent, respectively, and a Gini coefficient of 0.95. Underneath these aggregate statistics lies substantial variation across our sample of cities, which reaches from Polish towns all the way to the Russian Far East. Next, we demonstrate that our measures of urban real-estate wealth inequality are positively related to different measures of social unrest, such as strikes, uprisings, and votes for the Bolsheviks in 1917. This highlights the role of (different types of) inequality in destabilizing and ultimately ending the Russian Empire. Our wealth data will also allow us to break down inequality by ethnicity and occupation in the future.
+  <div>
+    
+    <h2>From Capital to Kapital? Urban Wealth Inequality and Unrest in the Late Russian Empire.</h2>
+
+    <p><em>(with Tom Raster)</em></p>
+
+    <p>
+      How does inequality shape social unrest? Which type of inequality (overall, ethnic, religious) matter most? We collect novel archival real-estate wealth data for all nearly 500 cities across the Russian Empire in 1912, on the eve of the 1917 Revolutions. We document very high levels of urban real-estate wealth inequality, with the top 10, 5 and 1 percent shares at, on average, 96, 87, and 57 percent, respectively, and a Gini coefficient of 0.95. Underneath these aggregate statistics lies substantial variation across our sample of cities, which reaches from Polish towns all the way to the Russian Far East. Next, we demonstrate that our measures of urban real-estate wealth inequality are positively related to different measures of social unrest, such as strikes, uprisings, and votes for the Bolsheviks in 1917. This highlights the role of (different types of) inequality in destabilizing and ultimately ending the Russian Empire. Our wealth data will also allow us to break down inequality by ethnicity and occupation in the future.
+    </p>
+
+  </div>
+
+</div>
+
+
