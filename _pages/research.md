@@ -5,16 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
-# Peer-reviewed articles
+# 📄 Peer-reviewed articles
 
-<div style="display:flex; gap:20px; align-items:flex-start;">
+<div style="display:flex; gap:20px; align-items:center;">
 
   <div style="flex:0 0 300px;">
     <img src="/images/parts_1914_map.png" width="300">
   </div>
 
   <div>
-
+    
     <h2>You Never Give Me Your Money: Barriers to Female Entrepreneurship in the Russian Empire, 1892-1914</h2>
 
     <p><em>European Review of Economic History, forthcoming</em></p>
@@ -27,6 +27,6 @@ author_profile: true
 
 </div>
 
-# Working papers
+# 📝 Working papers
 
 # Work in progress
