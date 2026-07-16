@@ -15,7 +15,7 @@ author_profile: true
 
   <div>
     
-    <h2>You Never Give Me Your Money: Barriers to Female Entrepreneurship in the Russian Empire, 1892-1914</h2>
+    <h2>You Never Give Me Your Money: Barriers to Female Entrepreneurship in the Russian Empire, 1892-1914.</h2>
 
     <p><em>European Review of Economic History, forthcoming</em></p>
 
@@ -35,7 +35,7 @@ author_profile: true
 
   <div>
     
-    <h2>Apprenticeships and Formal Business Schooling in Late Imperial Russia (1880-1917): A Gendered Perspective </h2>
+    <h2>Apprenticeships and Formal Business Schooling in Late Imperial Russia (1880-1917): A Gendered Perspective.</h2>
 
     <p><em><a href="https://www.ebhsoc.org/journal/index.php/ebhs/article/view/540" target="_blank">Essays in Economic and Business History, 2024, Vol. 42 (1) </a></em></p>
 
@@ -48,5 +48,24 @@ author_profile: true
 </div>
 
 # 📝 Working papers
+<div style="display:flex; gap:20px; align-items:center;">
+
+  <div style="flex:0 0 300px;">
+    <img src="/images/moscow_map_1900.pdf" width="300">
+  </div>
+
+  <div>
+    
+    <h2>Who Owned Moscow? Gender Asset Gap in a 19th Century Metropolis. </h2>
+
+    <p><em><a href="https://www.dropbox.com/scl/fi/wc38saynk0hs83r680dsn/Peshko_Who_owned_Moscow.pdf?rlkey=ekrhgnwgoj6igyacif4erdhic&st=iu63f8hj&dl=0" target="_blank">Working paper </a></em></p>
+
+    <p>
+      This paper examines the impact of patriarchal structures on economic inequality through the lens of property ownership in late imperial Russia. Using novel data on individual property income assessments for Moscow in 1875, 1890, and 1900, it documents trends in gendered asset ownership and income disparities. It finds that women represented over 40% of proprietors, yet earned 28–35% less property income than men, with the gap most pronounced at the top decile. Evidence suggests this male premium stemmed from men’s greater capacity to exploit housing development opportunities. The study introduces the concept of a “patriarchal inequality regime,” highlighting how economic rights without political power sustained gendered wealth gaps.
+    </p>
+
+  </div>
+
+</div>
 
 # 🛠️ Work in progress
