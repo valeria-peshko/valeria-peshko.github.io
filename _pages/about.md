@@ -18,4 +18,4 @@ My work has been published in the European Review of Economic History, Scandinav
 
 Beyond research, I have co-organized conference panels on female entrepreneurship in the long nineteenth century and a workshop on the use of artificial intelligence in historical data digitization.
 
-I am currently on the academic job market and welcome inquiries regarding research collaborations, postdoctoral opportunities, and other professional engagements.
+I am currently on the academic job market and welcome inquiries regarding research collaborations and postdoctoral opportunities.
