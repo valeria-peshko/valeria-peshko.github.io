@@ -5,16 +5,49 @@ permalink: /research/
 author_profile: true
 ---
 
+<style>
+.research-flex {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+}
+.research-flex .research-img {
+  flex: 1 1 250px;
+  max-width: 300px;
+  min-width: 150px;
+}
+.research-flex .research-img img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.research-flex .research-text {
+  flex: 2 1 300px;
+  min-width: 200px;
+}
+@media (max-width: 600px) {
+  .research-flex {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .research-flex .research-img {
+    max-width: 100%;
+  }
+}
+</style>
+
 # 📄 Peer-reviewed articles
 
-<div style="display:flex; gap:20px; align-items:center;">
+<div class="research-flex">
 
-  <div style="flex:0 0 300px;">
-    <img src="/images/parts_1914_map.png" width="300">
+  <div class="research-img">
+    <img src="/images/parts_1914_map.png">
   </div>
 
-  <div>
-    
+  <div class="research-text">
+
     <h2>You Never Give Me Your Money: Barriers to Female Entrepreneurship in the Russian Empire, 1892-1914.</h2>
 
     <p><em><a href="https://doi.org/10.1093/ereh/heag024" target="_blank">European Review of Economic History, forthcoming</a></em></p>
@@ -28,14 +61,14 @@ author_profile: true
 
 </div>
 
-<div style="display:flex; gap:20px; align-items:center;">
+<div class="research-flex">
 
-  <div style="flex:0 0 300px;">
-    <img src="/images/v_kontore_moskupbank1903.jpg" width="300">
+  <div class="research-img">
+    <img src="/images/v_kontore_moskupbank1903.jpg">
   </div>
 
-  <div>
-    
+  <div class="research-text">
+
     <h2>Apprenticeships and Formal Business Schooling in Late Imperial Russia (1880-1917): A Gendered Perspective.</h2>
 
     <p><em><a href="https://www.ebhsoc.org/journal/index.php/ebhs/article/view/540" target="_blank">Essays in Economic and Business History, 2024, Vol. 42 (1)</a></em></p>
@@ -49,14 +82,15 @@ author_profile: true
 </div>
 
 # 📝 Working papers
-<div style="display:flex; gap:20px; align-items:center;">
 
-  <div style="flex:0 0 300px;">
-    <img src="/images/moscow_map_1900.png" width="300">
+<div class="research-flex">
+
+  <div class="research-img">
+    <img src="/images/moscow_map_1900.png">
   </div>
 
-  <div>
-    
+  <div class="research-text">
+
     <h2>Who Owned Moscow? Gender Asset Gap in a 19th Century Metropolis. </h2>
 
     <p><em><a href="https://www.dropbox.com/scl/fi/wc38saynk0hs83r680dsn/Peshko_Who_owned_Moscow.pdf?rlkey=ekrhgnwgoj6igyacif4erdhic&st=iu63f8hj&dl=0" target="_blank">Working paper </a></em></p>
@@ -72,14 +106,15 @@ author_profile: true
 </div>
 
 # 🛠️ Work in progress
-<div style="display:flex; gap:20px; align-items:center;">
 
-  <div style="flex:0 0 300px;">
-    <img src="/images/Bolshevik_Kustodiev.jpg" width="300">
+<div class="research-flex">
+
+  <div class="research-img">
+    <img src="/images/Bolshevik_Kustodiev.jpg">
   </div>
 
-  <div>
-    
+  <div class="research-text">
+
     <h2>From Capital to Kapital? Urban Wealth Inequality and Unrest in the Late Russian Empire.</h2>
 
     <p><em>(with Tom Raster)</em></p>
